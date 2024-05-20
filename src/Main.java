@@ -1,7 +1,5 @@
 // Software Engineering (Project) Assignment By Mahanoor memon, Maha-shaikh, MahrukhHumail.
 // Project Named As Restaurant
-package RestaurantBillingSystem;
-
 // BillItem.java
 class BillItem {
     private final String name;
