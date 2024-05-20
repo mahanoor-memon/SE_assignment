@@ -61,7 +61,7 @@ class BillingCalculator {
         System.out.println("           THANK YOU VISIT AGAIN!!      ");
     }
 }
-class RestaurantMain {
+class Main {
     public static void main(String[] args) {
         System.out.println("\t\nWELCOME TO IMCS RESTAURANT\n");
         Scanner scn = new Scanner(System.in);
