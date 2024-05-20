@@ -67,7 +67,7 @@ public class Main {
         System.out.println("\t\nWELCOME TO IMCS RESTAURANT\n");
 
         // Predefined customer name and order date
-        String name = "John Doe";
+        String name = "Mahanoor Memon";
         String date = "05/05/2024";
 
         // Predefined list of items
